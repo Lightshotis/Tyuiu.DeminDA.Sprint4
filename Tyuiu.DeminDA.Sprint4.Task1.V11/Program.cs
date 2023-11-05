@@ -43,7 +43,7 @@ namespace Tyuiu.DeminDA.Sprint4.Task1.V11
             Console.WriteLine("Массив: ");
             for (int i = 0; i <= len - 1; i++)
             {
-                Console.WriteLine(numsArry[i] + "\t");
+                Console.Write(numsArry[i] + "\t");
             }
             Console.WriteLine();
             Console.WriteLine();
