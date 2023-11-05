@@ -10,7 +10,7 @@ namespace Tyuiu.DeminDA.Sprint4.Task1.V11
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #4 | Выполнил: Дёмин Д.А. | ИИПБ-23-2";
