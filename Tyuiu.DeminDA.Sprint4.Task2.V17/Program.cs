@@ -12,7 +12,7 @@ namespace Tyuiu.DeminDA.Sprint4.Task2.V17
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             Console.Title = "Спринт #4 | Выполнил: Дёмин Д.А. | ИИПБ-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
